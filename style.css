@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #3cd9f5;
+}
+.navbar {
+  background-color: blue;
+}
+
+#projects {
+  background-color: #3cd9f5;
+}
+
+section {
+  padding-top: 5rem;
+}
